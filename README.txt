@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< HEAD.body
+=======
+<<<<<<< HEAD...
+>>>>>>> js-assignment
 hello guys
-are you there
+
 
 >>>>>>> css-assignment
